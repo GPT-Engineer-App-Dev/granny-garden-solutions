@@ -58,6 +58,11 @@ const Index = () => {
             </Button>
           </Link>
         </Box>
+        <Box mt={8} textAlign="center">
+          <Text fontSize="md" color="gray.500">
+            Built with love from Stockholm 🇸🇪
+          </Text>
+        </Box>
       </Container>
     </Box>
   );
